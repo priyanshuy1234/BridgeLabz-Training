@@ -14,3 +14,4 @@ public class QuizMain {
         System.out.println("Total Score: " + score + " out of " + correctAnswers.length);
     }
 }
+//Quiz
